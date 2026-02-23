@@ -4,7 +4,7 @@ This repository archives codes related to the study of submesoscale processes.
 ## Analytical simulations :
 Study focused on the behavior of particles in an analytical vortex.
 
-## Submesoscale simulations !
+## Submesoscale simulations :
 Experimentation of various forcing and postprocessing
 
 ## Vortex detection :
