@@ -1,5 +1,5 @@
 ## Spectrum extraction
-- EDS_GLORYS create standardised csv files for GLORYS spectrums.
+- OGCM_to_EDS create standardised csv files for OGCMs spectrums (here GLORYS is used).
 
 - Simulation_to_EDS converts the resulting file of a simulation to a succession of spectrums in a standardised file.
 
@@ -12,6 +12,7 @@
 - Simulation_measures computes the energy, enstrophy, taylor microscale and Reynolds of a given Spectrum file
 
 - Not added : OGCM_measures will create a plot Simulation_measures.
+
 
 
 
