@@ -11,7 +11,6 @@
 ## Measures
 - Simulation_measures computes the energy, enstrophy, taylor microscale and Reynolds of a given Spectrum file
 
-- Not added : OGCM_measures will create a plot Simulation_measures.
 
 
 
